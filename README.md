@@ -1,6 +1,6 @@
-Advent of Code 2020
+Advent of Code 2024
 ===================
 
-I'm doing this in the fall of 2023 for practice.
+In Clojure. Focus on fun and writing a good looking solution over speed.
 
 License: MIT
